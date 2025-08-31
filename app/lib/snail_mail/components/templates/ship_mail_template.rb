@@ -26,7 +26,6 @@ module SnailMail
           render_qr_code(162.5, 25, 45)
           render_letter_id(225, 25, 8)
           render_postage
-          end
         end
       end
     end
